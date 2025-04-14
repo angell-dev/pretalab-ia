@@ -1,4 +1,4 @@
-# Pretalab | Ciclo 13 - Trilha Inteligência Artificial
+# Pretalab | Ciclo 13 - Trilha Inteligência Artificial (Python)
 
 O ciclo formativo em Inteligência Artificial da Pretalab é voltado para mulheres negras que desejam aprender os conceitos fundamentais da IA e desenvolver habilidades práticas para atuar nesse setor em expansão.
 
